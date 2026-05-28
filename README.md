@@ -1,10 +1,28 @@
-Instructions:
-Download SFML from sfml-dev.org (GCC 14.2.0 UCRT 64-bit)
+# 🚀 SFML Quick Setup Template
 
-Extract to D:\SFML\SFML-3.1.0\ (or change my paths to your location)
+## ⚡ Quick Start (5 minutes)
 
-Open this folder in VSCode
+1. **Download SFML 3.1.0**  
+   👉 [sfml-dev.org](https://www.sfml-dev.org/download/sfml/3.1.0/)  
+   *Choose: GCC 14.2.0 MinGW (SEH) (UCRT) - 64-bit*
 
-Press Ctrl+Shift+B to compile
+2. **Extract to:** `D:\SFML\SFML-3.1.0\`  
+   *(Or extract anywhere - just update my paths)*
 
-Need help? Use DeepSeek AI with your error message.
+3. **Open this folder in VSCode**
+
+4. **Press `Ctrl+Shift+B`** to compile
+
+5. **Run:** `.\first.exe`
+
+## 📁 Files Included
+- `.vscode/` - Pre-configured settings
+- `first.cpp` - Working example
+- `first.exe` - Ready to run demo
+
+## 🆘 Need Help?
+Ask **DeepSeek AI** with your error message
+
+---
+
+**Made for people who just want to code, not configure.** 🎮
